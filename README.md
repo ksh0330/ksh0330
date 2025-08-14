@@ -8,8 +8,6 @@ I'm Seunghyun Kim
 🎓 Undergraduate in Electronic Information & Communication Engineering at Daejeon University  
 🔭 Interests: Computer Vision · Deep Learning
 
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:sghn0330@gmail.com)
-
 ---  
 <div align="center">
   

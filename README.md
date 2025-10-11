@@ -5,8 +5,8 @@
 
 I'm Seunghyun Kim
 
-🎓 Undergraduate in Electronic Information & Communication Engineering at Daejeon University  
-🔭 Interests: Computer Vision · Deep Learning
+🎓 Undergraduate in Electronic, Information & Communication Engineering at Daejeon University  
+🔭 Interests: Deep Learning · Computer Vision
 
 ---  
 <div align="center">

@@ -1,12 +1,11 @@
 <div align="center">
   
 ### Hi there 👋
+
+I'm **Seunghyun Kim**  
+Interested in **Deep Learning, Computer Vision, and Generative AI applications**
+
 </div>
-
-I'm Seunghyun Kim
-
-🎓 Undergraduate in Electronic, Information & Communication Engineering at Daejeon University  
-🔭 Interests: Deep Learning · Computer Vision
 
 ---  
 <div align="center">

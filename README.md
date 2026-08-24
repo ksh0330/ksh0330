@@ -28,8 +28,3 @@ Building practical AI systems that connect
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-
-### More
-
-Detailed projects, publications, and research experience are available on my
-**[portfolio](https://ksh0330.github.io/)**.

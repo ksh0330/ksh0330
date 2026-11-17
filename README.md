@@ -33,9 +33,9 @@ Building practical AI systems that connect
 | Project | Description | Stack |
 | --- | --- | --- |
 | [EO/IR Drone Object Detection](https://ksh0330.github.io/projects/eo-ir-drone-object-detection/) | EO/IR drone video pipeline: preprocessing, 5G transmission, edge/server inference, visualization | YOLOv9, TensorRT |
-| [VITAS](https://github.com/ksh0330/Project-VITAS) | Vision-based intersection accident prevention: detection, speed estimation, risk classification | YOLOv8, OpenCV, PyQt |
-| [RideSure](https://github.com/ksh0330/RideSure) | Bus boarding-likelihood check and alternative route recommendation from public data | FastAPI, Neo4j, Kakao Map |
-| [TeleGuideRAG](https://github.com/ksh0330/TeleGuideRAG) | RAG service for telecom technologies with grounded answers, comparisons, and IP/CIDR tools | Python, RAG |
+| [VITAS](https://ksh0330.github.io/projects/vitas/) | Vision-based intersection accident prevention: detection, speed estimation, risk classification | YOLOv8, OpenCV, PyQt |
+| [RideSure](https://ksh0330.github.io/projects/ridesure/) | Bus boarding-likelihood check and alternative route recommendation from public data | FastAPI, Neo4j, Kakao Map |
+| [TeleGuideRAG](https://ksh0330.github.io/projects/teleguiderag/) | RAG service for telecom technologies with grounded answers, comparisons, and IP/CIDR tools | LangGraph, ChromaDB, Streamlit |
 | [GRIT Edu LMS/CMS](https://ksh0330.github.io/projects/grit-edu-lms/) | Academy website, LMS, and CMS in live operation ([gritedu.kr](https://gritedu.kr)) | JavaScript, Firebase |
 
 ### Core Stack

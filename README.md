@@ -61,9 +61,7 @@ Building practical AI systems that connect
 
 | | |
 | --- | --- |
-| Data & ML | NumPy, Pandas, Matplotlib, Jupyter / Colab, Hugging Face, ONNX, CUDA, Roboflow, LabelImg |
-| Web | HTML/CSS, Django, Node.js |
+| Data & ML | NumPy, Pandas, Matplotlib, Jupyter, Hugging Face, ONNX, CUDA, Roboflow |
+| Web & Infra | HTML/CSS, Django, Node.js, Cloudflare |
 | Embedded & Robotics | Arduino, ATmega128, Raspberry Pi, ROS |
-| Infra | WSL, Cloudflare |
-| Tools | VS Code, PyCharm, Eclipse, Postman, Notion, Slack, Figma |
 | Other languages | Java, R |

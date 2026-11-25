@@ -1,15 +1,14 @@
 <div align="center">
 
-# Seunghyun Kim
-
-**Applied AI Software · Computer Vision · Real-Time Systems**
+<img src="assets/banner.svg" alt="Seunghyun Kim - Applied AI Software · Computer Vision · Real-Time Systems">
 
 Building practical AI systems that connect
 **models, data, and software** — from research prototypes to services in operation.
 
 [Portfolio](https://ksh0330.github.io/) ·
 [CV](https://ksh0330.github.io/cv/) ·
-[LinkedIn](https://www.linkedin.com/in/sghnkim/)
+[LinkedIn](https://www.linkedin.com/in/sghnkim/) ·
+[Velog](https://velog.io/@ksh0330)
 
 </div>
 
@@ -17,10 +16,9 @@ Building practical AI systems that connect
 
 ### About
 
-- Experience in **computer vision and real-time AI systems**
-- Worked with **object detection, tracking, image preprocessing, and inference optimization**
-- Built applied AI services: **RAG, real-time speech-to-text, and knowledge-graph route recommendation**
-- Interested in applying AI to **drones, autonomous systems, and practical software**
+- Computer vision and real-time AI systems: detection, tracking, preprocessing, inference optimization
+- Applied AI services: RAG, real-time speech-to-text, knowledge-graph route recommendation
+- Interested in drones, autonomous systems, and practical software
 
 ### Highlights
 
@@ -41,21 +39,31 @@ Building practical AI systems that connect
 | [YouTube Live STT](https://ksh0330.github.io/projects/youtube-live-stt/) | Chrome extension for real-time local transcription of YouTube live audio | faster-whisper, WebSocket |
 | [GRIT Edu LMS/CMS](https://ksh0330.github.io/projects/grit-edu-lms/) | Academy website, LMS, and CMS in live operation ([gritedu.kr](https://gritedu.kr)) | JavaScript, Firebase |
 
-### Core Stack
+### Tech Stack
+
+**Core** — used in the projects above
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 
-### Also Worked With
+**Also used**
 
-- **Languages:** C++, Java, R
-- **Embedded:** Arduino
-- **Tools:** VS Code, PyCharm, Eclipse, Figma
+| | |
+| --- | --- |
+| Data & ML | NumPy, Pandas, Matplotlib, Jupyter / Colab, Hugging Face, ONNX, CUDA, Roboflow, LabelImg |
+| Web | HTML/CSS, Django, Node.js |
+| Embedded & Robotics | Arduino, ATmega128, Raspberry Pi, ROS |
+| Infra | WSL, Cloudflare |
+| Tools | VS Code, PyCharm, Eclipse, Postman, Notion, Slack, Figma |
+| Other languages | Java, R |

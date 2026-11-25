@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" role="img" aria-label="Seunghyun Kim">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2545"/><stop offset="0.55" stop-color="#13597a"/><stop offset="1" stop-color="#1fa89a"/></linearGradient></defs>
+<rect width="900" height="230" rx="14" fill="url(#g)"/>
+<path d="M0 175 C150 145 300 205 450 175 S750 145 900 180 V230 H0Z" fill="#ffffff" fill-opacity="0.10"/>
+<path d="M0 195 C180 170 330 220 500 195 S780 170 900 200 V230 H0Z" fill="#ffffff" fill-opacity="0.10"/>
+<text x="450" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Seunghyun Kim</text>
+<text x="450" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#d9f3ef">Applied AI Software · Computer Vision · Real-Time Systems</text>
+</svg>

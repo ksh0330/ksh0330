@@ -2,10 +2,10 @@
 
 # Seunghyun Kim
 
-**Computer Vision · Real-Time AI Systems · Applied AI Software**
+**Applied AI Software · Computer Vision · Real-Time Systems**
 
 Building practical AI systems that connect
-**computer vision, model inference, and software**.
+**models, data, and software** — from research prototypes to services in operation.
 
 [Portfolio](https://ksh0330.github.io/) ·
 [CV](https://ksh0330.github.io/cv/) ·
@@ -19,6 +19,7 @@ Building practical AI systems that connect
 
 - Experience in **computer vision and real-time AI systems**
 - Worked with **object detection, tracking, image preprocessing, and inference optimization**
+- Built applied AI services: **RAG, real-time speech-to-text, and knowledge-graph route recommendation**
 - Interested in applying AI to **drones, autonomous systems, and practical software**
 
 ### Highlights
@@ -27,6 +28,7 @@ Building practical AI systems that connect
 - **First-author journal paper (2025)** — lane-specific speed estimation (max error **5.66 km/h** on real roads) and lightweight MLP risk classification (**89%** on model-intersection videos, **5 ms** inference)
 - **VITAS (team lead)** — Capstone Design Grand Prize, AIoT Service Design Grand Prize, Hanium ICT Contest Finalist
 - **GRIT Edu** — built and operate an academy web/LMS/CMS with 239 students and 21 instructors registered
+- **Contests (2026)** — advanced to the COEX finals of the SK hynix AI Hackathon (individual); RideSure received a special prize at a public data competition (team)
 
 ### Selected Projects
 
@@ -51,3 +53,9 @@ Building practical AI systems that connect
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
+
+### Also Worked With
+
+- **Languages:** C++, Java, R
+- **Embedded:** Arduino
+- **Tools:** VS Code, PyCharm, Eclipse, Figma

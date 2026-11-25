@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Seunghyun Kim - Applied AI Software · Computer Vision · Real-Time Systems">
+<img src="assets/banner.svg" alt="Seunghyun Kim - AI & Software Engineer">
 
-Building practical AI systems that connect
-**models, data, and software** — from research prototypes to services in operation.
+Building practical AI systems that connect **models, data, and software**.
 
 [Portfolio](https://ksh0330.github.io/) ·
 [CV](https://ksh0330.github.io/cv/) ·
@@ -14,40 +13,26 @@ Building practical AI systems that connect
 
 ---
 
-### About
-
-- Computer vision and real-time AI systems: detection, tracking, preprocessing, inference optimization
-- Applied AI services: RAG, real-time speech-to-text, knowledge-graph route recommendation
-- Interested in drones, autonomous systems, and practical software
-
 ### Highlights
 
-- **ETRI research internship (2024)** — EO/IR drone object detection pipeline (YOLOv9, ByteTrack, TensorRT); about **0.6 s** from video input to detection display in the test environment; Best Paper Presentation Award, IEMEK 2024
-- **First-author journal paper (2025)** — lane-specific speed estimation (max error **5.66 km/h** on real roads) and lightweight MLP risk classification (**89%** on model-intersection videos, **5 ms** inference)
+- **ETRI internship (2024)** — EO/IR drone detection pipeline, about **0.6 s** from video input to display; Best Paper Presentation Award, IEMEK 2024
+- **First-author journal paper (2025)** — lane-wise speed estimation (max error **5.66 km/h** on real roads) and MLP risk classification (**89%**, **5 ms**)
 - **VITAS (team lead)** — Capstone Design Grand Prize, AIoT Service Design Grand Prize, Hanium ICT Contest Finalist
-- **GRIT Edu** — built and operate an academy web/LMS/CMS with 239 students and 21 instructors registered
-- **Contests (2026)** — advanced to the COEX finals of the SK hynix AI Hackathon (individual); RideSure received a special prize at a public data competition (team)
+- **GRIT Edu** — built and operate an academy LMS/CMS (239 students, 21 instructors)
 
 ### Selected Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [EO/IR Drone Object Detection](https://ksh0330.github.io/projects/eo-ir-drone-object-detection/) | EO/IR drone video pipeline: preprocessing, 5G transmission, edge/server inference, visualization | YOLOv9, TensorRT |
-| [VITAS](https://ksh0330.github.io/projects/vitas/) | Vision-based intersection accident prevention: detection, speed estimation, risk classification | YOLOv8, OpenCV, PyQt |
-| [RideSure](https://ksh0330.github.io/projects/ridesure/) | Bus boarding-likelihood check and alternative route recommendation from public data | FastAPI, Neo4j, Kakao Map |
-| [TeleGuideRAG](https://ksh0330.github.io/projects/teleguiderag/) | RAG service for telecom technologies with grounded answers, comparisons, and IP/CIDR tools | LangGraph, ChromaDB, Streamlit |
-| [YouTube Live STT](https://ksh0330.github.io/projects/youtube-live-stt/) | Chrome extension for real-time local transcription of YouTube live audio | faster-whisper, WebSocket |
-| [GRIT Edu LMS/CMS](https://ksh0330.github.io/projects/grit-edu-lms/) | Academy website, LMS, and CMS in live operation ([gritedu.kr](https://gritedu.kr)) | JavaScript, Firebase |
+| Project | Summary | Stack | Links |
+| --- | --- | --- | --- |
+| **EO/IR Drone Detection** | Real-time EO/IR drone video pipeline over private 5G | YOLOv9, TensorRT | [Page](https://ksh0330.github.io/projects/eo-ir-drone-object-detection/) |
+| **VITAS** | Intersection accident-risk system: speed estimation and risk classification | YOLOv8, OpenCV, PyQt | [Page](https://ksh0330.github.io/projects/vitas/) · [Code](https://github.com/ksh0330/Project-VITAS) |
+| **RideSure** | Boarding-likelihood check and route comparison from public data | FastAPI, Neo4j | [Page](https://ksh0330.github.io/projects/ridesure/) · [Code](https://github.com/ksh0330/RideSure) |
+| **GRIT Edu LMS/CMS** | Academy website, LMS, and CMS in live operation | JavaScript, Firebase | [Page](https://ksh0330.github.io/projects/grit-edu-lms/) · [Code](https://github.com/ksh0330/gritedu-lms) · [Live](https://gritedu.kr) |
 
+More: [TeleGuideRAG](https://github.com/ksh0330/TeleGuideRAG) · [YouTube Live STT](https://github.com/ksh0330/youtube-live-transcript-stt) · [all projects](https://ksh0330.github.io/projects/)
 ### Tech Stack
 
-**Core** — used in the projects above
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?logoColor=white)
@@ -57,11 +42,7 @@ Building practical AI systems that connect
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 
-**Also used**
-
-| | |
-| --- | --- |
-| Data & ML | NumPy, Pandas, Matplotlib, Jupyter, Hugging Face, ONNX, CUDA, Roboflow |
-| Web & Infra | HTML/CSS, Django, Node.js, Cloudflare |
-| Embedded & Robotics | Arduino, ATmega128, Raspberry Pi, ROS |
-| Other languages | Java, R |
+- **Languages** Python · C · C++ · JavaScript · Java · R
+- **Data & ML** NumPy, Pandas, Matplotlib, Jupyter, Hugging Face, ONNX, CUDA, Roboflow
+- **Web & Infra** HTML/CSS, Django, Node.js, Cloudflare
+- **Embedded & Robotics** Arduino, ATmega128, Raspberry Pi, ROS

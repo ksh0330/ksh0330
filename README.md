@@ -43,6 +43,6 @@ More: [TeleGuideRAG](https://github.com/ksh0330/TeleGuideRAG) · [YouTube Live S
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 
 - **Languages** Python · C · C++ · JavaScript · Java · R
-- **Data & ML** NumPy, Pandas, Matplotlib, Jupyter, Hugging Face, ONNX, CUDA, Roboflow
-- **Web & Infra** HTML/CSS, Django, Node.js, Cloudflare
+- **Data & ML** NumPy, Pandas, Matplotlib, Jupyter, Hugging Face, ONNX, CUDA, Roboflow, LangGraph, ChromaDB, Whisper
+- **Web & Infra** HTML/CSS, Django, Vue, Node.js, Cloudflare
 - **Embedded & Robotics** Arduino, ATmega128, Raspberry Pi, ROS

@@ -18,7 +18,7 @@ Building practical AI systems that connect **models, data, and software**.
 - **ETRI internship (2024)** — EO/IR drone detection pipeline, about **0.6 s** from video input to display; Best Paper Presentation Award, IEMEK 2024
 - **First-author journal paper (2025)** — lane-wise speed estimation (max error **5.66 km/h** on real roads) and MLP risk classification (**89%**, **5 ms** on model-intersection test videos)
 - **VITAS (team lead)** — Capstone Design Grand Prize, AIoT Service Design Grand Prize, Hanium ICT Contest Finalist
-- **GRIT Edu** — built and operate an academy LMS/CMS (239 students, 21 instructors as of Nov 2026)
+- **GRIT Edu** — built and operate an academy LMS/CMS (242 students, 22 instructors as of Nov 2026)
 
 ### Selected Projects
 

@@ -29,7 +29,7 @@ Building practical AI systems that connect **models, data, and software**.
 | **RideSure** | Boarding-likelihood check and route comparison from public data | FastAPI, Neo4j | [Page](https://ksh0330.github.io/projects/ridesure/) · [Code](https://github.com/ksh0330/RideSure) |
 | **GRIT Edu LMS/CMS** | Academy website, LMS, and CMS in live operation | JavaScript, Firebase | [Page](https://ksh0330.github.io/projects/grit-edu-lms/) · [Snapshot](https://github.com/ksh0330/gritedu-lms) · [Live](https://gritedu.kr) |
 
-More: [TeleGuideRAG](https://github.com/ksh0330/TeleGuideRAG) · [YouTube Live STT](https://github.com/ksh0330/youtube-live-transcript-stt) · [all projects](https://ksh0330.github.io/projects/)
+More: [TeleGuideRAG](https://github.com/ksh0330/TeleGuideRAG) · [YouTube Live STT](https://github.com/ksh0330/youtube-live-transcript-stt) · [JeJuOneEyes](https://github.com/ksh0330/JeJuOneEyes) · [all projects](https://ksh0330.github.io/projects/)
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
